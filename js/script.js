@@ -26,6 +26,32 @@ let data = [{
   source: "Cory House",
   citation: "twitter",
   year: "2020"
+},
+{
+  quote: "99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …e",
+  source: "house",
+  citation: "facebook",
+  year: "2012"
+},
+
+{
+  quote: "One man’s crappy software is another man’s full-time job.",
+  source: " Johnson",
+  citation: "facebook",
+  year: "2011"
+},
+
+{
+  quote: "Deleted code is debugged code..",
+  source: "John ",
+  citation: "facebook",
+  year: "2021"
+},
+{
+  quote: "It’s not a bug — it’s an undocumented feature.",
+  source: " Johnson",
+  citation: "facebook",
+  year: "2021"
 }
 
 ]
